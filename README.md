@@ -1,1 +1,5 @@
 # Techtorium-Second-Year
+
+Just a short message from me
+
+  This project is a current work in progress, and it aims to display my experience and past knowledge of the assignments I've worked on during the year. I'll be updating it fairly frequently, and i've already committed on the main branch so i might as well continue. Regarding my git pushes they will all be split into projects and assessments/exams, each with their own folders containing projects sorted by terms, in those by weeks and then titled with appropriate naming conventions. I will include miscellaneous notes which will contain scattered notes i've taken during class time that i felt were necessary or just chunks of information that i quickly jotted down in case i was unable to study them as much as other topics, and also just journal entries on how i feel in terms of the progress i'm making with my assignments and where i feel i'm at with dates etc. I will also continue to update this readme as I go, so it may be lengthy in the future.
